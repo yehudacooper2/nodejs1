@@ -17,3 +17,4 @@ console.log(arr);
 let a = 6;
 console.log(!6);
 console.log('yyyyyyyyyyyyy');
+console.log('bbbbbb');
